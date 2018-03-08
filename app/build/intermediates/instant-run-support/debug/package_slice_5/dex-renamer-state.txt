@@ -1,0 +1,4 @@
+#Thu Mar 08 11:24:32 EST 2018
+base.0=C\:\\Users\\Jiaxin Song\\Desktop\\SearchMovies (2)\\SearchMovies\\NewMovieApp2\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\5
+path.0=classes.dex
+renamed.0=classes.dex
